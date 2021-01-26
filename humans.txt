@@ -1,7 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifing the file before rebase
+Hi, I am modifing the file before rebase.
+
+Doing some changes in Local.
 
 
 # TEAM
